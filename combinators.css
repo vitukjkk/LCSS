@@ -1,0 +1,22 @@
+/*
+    - Descendent
+    - List
+    - Next sibling
+    - Child
+*/
+
+article p { /*combinator - aplica em um específico*/
+    color: brown;
+}
+
+span, p { /*list - aplica em vários*/
+    color: blue;
+}
+
+p + p { /*Next sibling - ve se tem um próximo para aplicar */
+    color: cadetblue;
+}
+
+aside > ul {
+    color: black;
+}

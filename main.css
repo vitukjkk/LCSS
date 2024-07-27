@@ -1,3 +1,27 @@
 body {
     background-color: violet;
 }
+
+p {
+    color:blueviolet
+}
+
+#p {
+    color:blueviolet
+}
+
+.p {
+    color:blueviolet
+}
+
+[title] {
+    color:blueviolet
+}
+
+[title="my"]p {
+    color:blueviolet
+}
+
+* {
+    color: blueviolet
+}

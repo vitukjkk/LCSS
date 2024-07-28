@@ -1,0 +1,10 @@
+p {
+    color:red;
+    background-color: blue;
+}
+
+body {
+    background-image: url("https://files.tecnoblog.net/wp-content/uploads/2022/09/stable-diffusion-imagem.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}

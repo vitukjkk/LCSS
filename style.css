@@ -7,11 +7,17 @@ div {
     border: solid 1px white;
 }
 
-p {
+#p {
     border: 2px white;
     border-style: dotted solid;
     border-width: 5px 7px 5px 3px;
     border-color: red white blue green;
+}
+
+p {
+    font-family: "Roboto";
+    padding: 10px;
+    font-style: italic;
 }
 
 .margin {
@@ -20,5 +26,17 @@ p {
 
 .padding {
     padding: 20px 40px;
-    border: solid 1px white
+    border: solid 1px white;
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+}
+
+mark {
+    color: red;
+}
+
+a {
+    text-decoration: none;
 }
